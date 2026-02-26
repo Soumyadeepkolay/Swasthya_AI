@@ -1,4 +1,4 @@
-# FitAI: Student Workout & Diet Planner
+# Swasthya_AI: Student Workout & Diet Planner
 
 A production-ready AI-powered fitness application tailored for students. It generates personalized 7-day workout and meal plans based on body metrics, goals, budget, and available equipment.
 
